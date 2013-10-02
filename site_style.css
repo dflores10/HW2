@@ -1,0 +1,65 @@
+body {
+	background:#CB8798;
+	font-family: Book Antiqua, Calibri, Verdana, Arial;
+	border: solid black 3px;
+	margin: 0px;
+	}
+h1 {
+	font-family: Lucida Calligraphy, Garamond, Perpetua;
+	text-decoration: underline:
+	}
+h2 {
+	font-family: Gabriola, Georgia, Sans Serif;
+	text-decoration: underline;
+	margin-bottom: 0px;
+	}
+h2.rsections {
+	font-family: California FB, Cambria, Sans Serif;
+	font-variant: small-caps;
+	}
+h3 {
+	font-family: Californian FB, Cambria, Sans Serif;
+	margin-bottom:0px;
+	font-size:18px;
+	font-weight:bold;
+	font-style:italic;
+	}
+h4 {
+	font-family: Californian FB, Cambria, Sans Serif;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size:17px;
+	font-weight: bold;
+	}
+ul{ 
+	padding-left:285px; 
+	margin-top:0px;
+	}
+p { margin-top:0px}
+.polaroid{ 
+	background:white; 
+	border:solid 1px #CB8798; 
+	padding-top:5px;
+	padding-right:5px;
+	padding-left:5px;
+	margin:10px;
+	text-align:center;}
+.logo{
+	float:left;
+	margin-top: 20px;
+	margin-left:0px;
+	margin-right: 15px;
+	margin-bottom: 1px;
+	}
+	
+a {text-decoration: none; font-weight:bold; font-size:13pt;}
+a:link, a:visited { color:#D41C47;}
+a:hover, a:active { color: #FDFF9B; background-color:#D41C47; text-decoration:underline; }
+
+#header {text-align: center;}
+#left_sidebar{float:left; background:#FAB571; width:250px; padding: 0px; text-align:center; padding-top:5px; margin-bottom:345px; margin-right:20px}
+#menu { background:#FDFF9B ; padding:10px 20px; text-align:center; font-variant:small caps;}
+#right_sidebar{float:right; background:#FAB571; width:250px; padding: 0px; text-align:center; padding-top:5px; margin-bottom:345px; margin-left:20px}
+#footer {margin-top:35px; margin-bottom:0px; font-style:italic; text-align:center; font-size:small; background-color:#FAB571; font-color:#CB8798;}
+#resume {background:#FAB571; width:900px; margin:auto; padding-left:20px; padding-right:20px; padding-bottom:20px; text-align:left; font-family: "Times New Roman";}
+#education{margin-top:0px}
